@@ -1,0 +1,13 @@
+Coin
+Compass
+Compass-50
+Coral
+Crystal
+Diamond
+Emerald
+Fossil
+Fossil-50
+Key
+Letter
+Shell
+Treasure_box
